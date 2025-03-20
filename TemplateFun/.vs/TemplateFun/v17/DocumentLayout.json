@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andrebucur\\source\\repos\\TemplateFun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C894E594-6FD3-4039-BAD6-C790B9C6D628}|TemplateFun.vcxproj|C:\\Users\\andrebucur\\source\\repos\\TemplateFun\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C894E594-6FD3-4039-BAD6-C790B9C6D628}|TemplateFun.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C894E594-6FD3-4039-BAD6-C790B9C6D628}|TemplateFun.vcxproj|C:\\Users\\andrebucur\\source\\repos\\TemplateFun\\Swapper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C894E594-6FD3-4039-BAD6-C790B9C6D628}|TemplateFun.vcxproj|solutionrelative:Swapper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\andrebucur\\source\\repos\\TemplateFun\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\andrebucur\\source\\repos\\TemplateFun\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwDEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T13:22:33.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Swapper.h",
+              "DocumentMoniker": "C:\\Users\\andrebucur\\source\\repos\\TemplateFun\\Swapper.h",
+              "RelativeDocumentMoniker": "Swapper.h",
+              "ToolTip": "C:\\Users\\andrebucur\\source\\repos\\TemplateFun\\Swapper.h",
+              "RelativeToolTip": "Swapper.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-09T16:00:16.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\andrebucur\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\main.cpp(33,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\andrebucur\source\repos\Rock, Paper, Scissors\Rock, Paper, Scissors\main.cpp(68,1): warning C4715: 'userChoice': not all control paths return a value
+  Rock, Paper, Scissors.vcxproj -> C:\Users\andrebucur\source\repos\Rock, Paper, Scissors\x64\Debug\Rock, Paper, Scissors.exe

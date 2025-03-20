@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\andrebucur\source\repos\GuessTheNumber\GuessTheNumber\main.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GuessTheNumber.vcxproj -> C:\Users\andrebucur\source\repos\GuessTheNumber\x64\Debug\GuessTheNumber.exe

@@ -1,0 +1,5 @@
+﻿  Circle.cpp
+  main.cpp
+C:\Users\andrebucur\source\repos\Circle\Circle\main.cpp(10,9): warning C4930: 'Circle randomCircle(void)': prototyped function not called (was a variable definition intended?)
+  Generating Code...
+  Circle.vcxproj -> C:\Users\andrebucur\source\repos\Circle\x64\Debug\Circle.exe

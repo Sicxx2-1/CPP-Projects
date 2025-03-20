@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andrebucur\\source\\repos\\Circle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17AF44EB-6A3C-4005-B61C-1D85D16A0486}|Circle\\Circle.vcxproj|C:\\Users\\andrebucur\\source\\repos\\Circle\\Circle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17AF44EB-6A3C-4005-B61C-1D85D16A0486}|Circle\\Circle.vcxproj|solutionrelative:Circle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AF44EB-6A3C-4005-B61C-1D85D16A0486}|Circle\\Circle.vcxproj|C:\\Users\\andrebucur\\source\\repos\\Circle\\Circle\\Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17AF44EB-6A3C-4005-B61C-1D85D16A0486}|Circle\\Circle.vcxproj|solutionrelative:Circle\\Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AF44EB-6A3C-4005-B61C-1D85D16A0486}|Circle\\Circle.vcxproj|C:\\Users\\andrebucur\\source\\repos\\Circle\\Circle\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17AF44EB-6A3C-4005-B61C-1D85D16A0486}|Circle\\Circle.vcxproj|solutionrelative:Circle\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\andrebucur\\source\\repos\\Circle\\Circle\\main.cpp",
+              "RelativeDocumentMoniker": "Circle\\main.cpp",
+              "ToolTip": "C:\\Users\\andrebucur\\source\\repos\\Circle\\Circle\\main.cpp",
+              "RelativeToolTip": "Circle\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T18:09:43.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.h",
+              "DocumentMoniker": "C:\\Users\\andrebucur\\source\\repos\\Circle\\Circle\\Circle.h",
+              "RelativeDocumentMoniker": "Circle\\Circle.h",
+              "ToolTip": "C:\\Users\\andrebucur\\source\\repos\\Circle\\Circle\\Circle.h",
+              "RelativeToolTip": "Circle\\Circle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-13T18:10:18.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cpp",
+              "DocumentMoniker": "C:\\Users\\andrebucur\\source\\repos\\Circle\\Circle\\Circle.cpp",
+              "RelativeDocumentMoniker": "Circle\\Circle.cpp",
+              "ToolTip": "C:\\Users\\andrebucur\\source\\repos\\Circle\\Circle\\Circle.cpp",
+              "RelativeToolTip": "Circle\\Circle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T18:10:57.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

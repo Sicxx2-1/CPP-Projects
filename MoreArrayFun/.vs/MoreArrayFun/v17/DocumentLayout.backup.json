@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andrebucur\\source\\repos\\MoreArrayFun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D86CC3-70AA-4B1E-8E46-EF2013A166C0}|MoreArrayFun\\MoreArrayFun.vcxproj|C:\\Users\\andrebucur\\source\\repos\\MoreArrayFun\\MoreArrayFun\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6D86CC3-70AA-4B1E-8E46-EF2013A166C0}|MoreArrayFun\\MoreArrayFun.vcxproj|solutionrelative:MoreArrayFun\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\andrebucur\\source\\repos\\MoreArrayFun\\MoreArrayFun\\main.cpp",
+              "RelativeDocumentMoniker": "MoreArrayFun\\main.cpp",
+              "ToolTip": "C:\\Users\\andrebucur\\source\\repos\\MoreArrayFun\\MoreArrayFun\\main.cpp",
+              "RelativeToolTip": "MoreArrayFun\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-28T16:58:21.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andrebucur\\source\\repos\\ArrayListApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6DFFC-06A6-46DD-A34A-6236555FEDA8}|ArrayListApp.vcxproj|C:\\Users\\andrebucur\\source\\repos\\ArrayListApp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9D6DFFC-06A6-46DD-A34A-6236555FEDA8}|ArrayListApp.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6DFFC-06A6-46DD-A34A-6236555FEDA8}|ArrayListApp.vcxproj|C:\\Users\\andrebucur\\source\\repos\\ArrayListApp\\ArrayList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9D6DFFC-06A6-46DD-A34A-6236555FEDA8}|ArrayListApp.vcxproj|solutionrelative:ArrayList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6DFFC-06A6-46DD-A34A-6236555FEDA8}|ArrayListApp.vcxproj|C:\\Users\\andrebucur\\source\\repos\\ArrayListApp\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9D6DFFC-06A6-46DD-A34A-6236555FEDA8}|ArrayListApp.vcxproj|solutionrelative:List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\andrebucur\\source\\repos\\ArrayListApp\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\andrebucur\\source\\repos\\ArrayListApp\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T18:20:33.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayList.h",
+              "DocumentMoniker": "C:\\Users\\andrebucur\\source\\repos\\ArrayListApp\\ArrayList.h",
+              "RelativeDocumentMoniker": "ArrayList.h",
+              "ToolTip": "C:\\Users\\andrebucur\\source\\repos\\ArrayListApp\\ArrayList.h",
+              "RelativeToolTip": "ArrayList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-20T18:25:30.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.h",
+              "DocumentMoniker": "C:\\Users\\andrebucur\\source\\repos\\ArrayListApp\\List.h",
+              "RelativeDocumentMoniker": "List.h",
+              "ToolTip": "C:\\Users\\andrebucur\\source\\repos\\ArrayListApp\\List.h",
+              "RelativeToolTip": "List.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-20T18:20:54.235Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

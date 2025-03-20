@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andrebucur\\source\\repos\\LogicFun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8989E8FD-A841-44CF-9E00-D6A602368521}|LogicFun\\LogicFun.vcxproj|C:\\Users\\andrebucur\\source\\repos\\LogicFun\\LogicFun\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8989E8FD-A841-44CF-9E00-D6A602368521}|LogicFun\\LogicFun.vcxproj|solutionrelative:LogicFun\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\andrebucur\\source\\repos\\LogicFun\\LogicFun\\main.cpp",
+              "RelativeDocumentMoniker": "LogicFun\\main.cpp",
+              "ToolTip": "C:\\Users\\andrebucur\\source\\repos\\LogicFun\\LogicFun\\main.cpp",
+              "RelativeToolTip": "LogicFun\\main.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-24T17:51:37.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+The Feature is Cosmetic Assets
+The Feature Owner is Andrei
+Sub-features and the assets count are as following: 
+
+
+Holosprays : 15
+Thank you for using the Feature Ownership Tracker Assistant!

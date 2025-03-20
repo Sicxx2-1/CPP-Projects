@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andrebucur\\source\\repos\\ReverseListOfNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9E3C9C-2135-4F2E-9656-45FF4E878E8E}|ReverseListOfNumbers\\ReverseListOfNumbers.vcxproj|C:\\Users\\andrebucur\\source\\repos\\ReverseListOfNumbers\\ReverseListOfNumbers\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC9E3C9C-2135-4F2E-9656-45FF4E878E8E}|ReverseListOfNumbers\\ReverseListOfNumbers.vcxproj|solutionrelative:ReverseListOfNumbers\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\andrebucur\\source\\repos\\ReverseListOfNumbers\\ReverseListOfNumbers\\main.cpp",
+              "RelativeDocumentMoniker": "ReverseListOfNumbers\\main.cpp",
+              "ToolTip": "C:\\Users\\andrebucur\\source\\repos\\ReverseListOfNumbers\\ReverseListOfNumbers\\main.cpp",
+              "RelativeToolTip": "ReverseListOfNumbers\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-29T18:31:43.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+﻿  Alien.cpp
+C:\Users\andrebucur\source\repos\Aliens\Alien.cpp(92,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  Aliens.vcxproj -> C:\Users\andrebucur\source\repos\Aliens\x64\Debug\Aliens.exe

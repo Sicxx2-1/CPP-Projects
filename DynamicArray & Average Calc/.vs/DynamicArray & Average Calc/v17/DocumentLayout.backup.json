@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andrebucur\\source\\repos\\DynamicArray \u0026 Average Calc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA2A301-A604-4F9B-9917-F24EC4D3643D}|DynamicArray \u0026 Average Calc\\DynamicArray \u0026 Average Calc.vcxproj|C:\\Users\\andrebucur\\source\\repos\\DynamicArray \u0026 Average Calc\\DynamicArray \u0026 Average Calc\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFA2A301-A604-4F9B-9917-F24EC4D3643D}|DynamicArray \u0026 Average Calc\\DynamicArray \u0026 Average Calc.vcxproj|solutionrelative:DynamicArray \u0026 Average Calc\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\andrebucur\\source\\repos\\DynamicArray \u0026 Average Calc\\DynamicArray \u0026 Average Calc\\main.cpp",
+              "RelativeDocumentMoniker": "DynamicArray \u0026 Average Calc\\main.cpp",
+              "ToolTip": "C:\\Users\\andrebucur\\source\\repos\\DynamicArray \u0026 Average Calc\\DynamicArray \u0026 Average Calc\\main.cpp",
+              "RelativeToolTip": "DynamicArray \u0026 Average Calc\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-23T15:45:51.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

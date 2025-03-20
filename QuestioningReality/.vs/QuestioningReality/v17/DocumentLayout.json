@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andrebucur\\source\\repos\\QuestioningReality\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B889B280-DEAA-4DFE-8A63-41EC4E7D6A33}|QuestioningReality\\QuestioningReality.vcxproj|C:\\Users\\andrebucur\\source\\repos\\QuestioningReality\\QuestioningReality\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B889B280-DEAA-4DFE-8A63-41EC4E7D6A33}|QuestioningReality\\QuestioningReality.vcxproj|solutionrelative:QuestioningReality\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\andrebucur\\source\\repos\\QuestioningReality\\QuestioningReality\\main.cpp",
+              "RelativeDocumentMoniker": "QuestioningReality\\main.cpp",
+              "ToolTip": "C:\\Users\\andrebucur\\source\\repos\\QuestioningReality\\QuestioningReality\\main.cpp*",
+              "RelativeToolTip": "QuestioningReality\\main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-06T13:12:50.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

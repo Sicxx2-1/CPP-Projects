@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andrebucur\\source\\repos\\RunTimeError\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCC5020-A183-49C8-98AE-61A1B3DA992A}|RunTimeError\\RunTimeError.vcxproj|C:\\Users\\andrebucur\\source\\repos\\RunTimeError\\RunTimeError\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFCC5020-A183-49C8-98AE-61A1B3DA992A}|RunTimeError\\RunTimeError.vcxproj|solutionrelative:RunTimeError\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCC5020-A183-49C8-98AE-61A1B3DA992A}|RunTimeError\\RunTimeError.vcxproj|C:\\Users\\andrebucur\\source\\repos\\RunTimeError\\RunTimeError\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFCC5020-A183-49C8-98AE-61A1B3DA992A}|RunTimeError\\RunTimeError.vcxproj|solutionrelative:RunTimeError\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCC5020-A183-49C8-98AE-61A1B3DA992A}|RunTimeError\\RunTimeError.vcxproj|C:\\Users\\andrebucur\\source\\repos\\RunTimeError\\RunTimeError\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFCC5020-A183-49C8-98AE-61A1B3DA992A}|RunTimeError\\RunTimeError.vcxproj|solutionrelative:RunTimeError\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\andrebucur\\source\\repos\\RunTimeError\\RunTimeError\\main.cpp",
+              "RelativeDocumentMoniker": "RunTimeError\\main.cpp",
+              "ToolTip": "C:\\Users\\andrebucur\\source\\repos\\RunTimeError\\RunTimeError\\main.cpp",
+              "RelativeToolTip": "RunTimeError\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-16T11:49:43.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.h",
+              "DocumentMoniker": "C:\\Users\\andrebucur\\source\\repos\\RunTimeError\\RunTimeError\\Person.h",
+              "RelativeDocumentMoniker": "RunTimeError\\Person.h",
+              "ToolTip": "C:\\Users\\andrebucur\\source\\repos\\RunTimeError\\RunTimeError\\Person.h",
+              "RelativeToolTip": "RunTimeError\\Person.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-16T11:50:09.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cpp",
+              "DocumentMoniker": "C:\\Users\\andrebucur\\source\\repos\\RunTimeError\\RunTimeError\\Person.cpp",
+              "RelativeDocumentMoniker": "RunTimeError\\Person.cpp",
+              "ToolTip": "C:\\Users\\andrebucur\\source\\repos\\RunTimeError\\RunTimeError\\Person.cpp",
+              "RelativeToolTip": "RunTimeError\\Person.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-16T11:50:29.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

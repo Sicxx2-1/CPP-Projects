@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\andrebucur\source\repos\TemperatureTracker\TemperatureTracker\main.cpp(22,22): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\andrebucur\source\repos\TemperatureTracker\TemperatureTracker\main.cpp(22,22): warning C4244:         with
+C:\Users\andrebucur\source\repos\TemperatureTracker\TemperatureTracker\main.cpp(22,22): warning C4244:         [
+C:\Users\andrebucur\source\repos\TemperatureTracker\TemperatureTracker\main.cpp(22,22): warning C4244:             _Ty=int
+C:\Users\andrebucur\source\repos\TemperatureTracker\TemperatureTracker\main.cpp(22,22): warning C4244:         ]
+  TemperatureTracker.vcxproj -> C:\Users\andrebucur\source\repos\TemperatureTracker\x64\Debug\TemperatureTracker.exe
